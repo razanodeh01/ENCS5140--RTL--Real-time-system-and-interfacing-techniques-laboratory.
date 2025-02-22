@@ -13,7 +13,7 @@ This project brings a classic memory game to life using ESP32, FreeRTOS, and Bly
 
 ✅ **Interactive & Engaging** for players of all skill levels.
 
-
+------------------------------------------------------------------------------------------------------------------------------
 ## 🔥 Key Features
 1️⃣ **Dynamic LED Pattern Generation** - The game generates a random sequence that increases in length with each level.
 
@@ -25,6 +25,7 @@ This project brings a classic memory game to life using ESP32, FreeRTOS, and Bly
 
 5️⃣ **Difficulty Scaling** - Starts with 3 LEDs and increases up to 22 LEDs at level 20.
 
+------------------------------------------------------------------------------------------------------------------------------
 
 ## ⚙️ How It Works
 🔹 **Step 1:** Press the Start Game button in the Blynk app.
@@ -39,6 +40,7 @@ This project brings a classic memory game to life using ESP32, FreeRTOS, and Bly
 
 🔹 **Step 6:** The game ends if mistakes exceed the limit or if the player reaches level 20.
 
+------------------------------------------------------------------------------------------------------------------------------
 
 ## 🛠️ Hardware & Software Requirements
 ✔ ESP32.
@@ -53,12 +55,14 @@ This project brings a classic memory game to life using ESP32, FreeRTOS, and Bly
 
 ✔ Blynk App (Android/iOS).
 
+------------------------------------------------------------------------------------------------------------------------------
 ## 📱 Blynk App Interface
 Below is a screenshot of the Blynk app interface, which allows users to interact with the game by replicating the LED patterns.
 
-![Image](https://github.com/user-attachments/assets/ba83be4d-1dd3-4344-b98b-91cc1565865c)
+<img src="https://github.com/user-attachments/assets/ba83be4d-1dd3-4344-b98b-91cc1565865c" alt="Blynk App Interface" width="200"/>
 
 
+------------------------------------------------------------------------------------------------------------------------------
 ## 🎬 Demo: Playing the LED Memory Game
 Watch the real-time demo of the LED Memory Game in action! 🎥
 
